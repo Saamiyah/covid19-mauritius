@@ -3,7 +3,7 @@
 		class="main-menu container mx-auto font-bold md:flex justify-center md:justify-between items-center py-3 md:py-5 md:px-8"
 	>
 		<router-link :to="'/'" class="text-center block md:inline text-3xl"
-			>COVID-19 Stats
+			>COVID-19 Statistics
 		</router-link>
 
 		<ul class="flex">
